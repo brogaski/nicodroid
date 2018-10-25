@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Nicodroid</string>
+    <string name="estimated_bnc">Estimated Blood Nicotine Concentration</string>
 </resources>
